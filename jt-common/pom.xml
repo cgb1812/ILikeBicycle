@@ -13,7 +13,7 @@
     <artifactId>jt-common</artifactId>
     <packaging>jar</packaging>
 
-    <name>Maven Portlet Archetype</name>
+    <name>jt-common</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 

@@ -59,7 +59,7 @@
         <property name="patterns">
             <list>
                 <!-- 针对项目中的Service层调用进行监控 -->
-                <value>com.tedu.druid.service.*</value>
+                <value>com.tedu.druid.service.*</value><!--!!!!!!!!!!!!!@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!!!!!!!!!!!!!!!-->
             </list>
         </property>
     </bean>

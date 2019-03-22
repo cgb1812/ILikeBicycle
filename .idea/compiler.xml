@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jt-bilibili" />
         <module name="jt-common" />
         <module name="jt-manage" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jt-bilibili" target="1.7" />
       <module name="jt-common" target="1.7" />
       <module name="jt-manage" target="1.7" />
       <module name="jt-parent" target="1.7" />

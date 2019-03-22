@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jt-bilibili" />
     <file type="web" url="file://$PROJECT_DIR$/jt-common" />
     <file type="web" url="file://$PROJECT_DIR$/jt-manage" />
   </component>
@@ -10,6 +11,7 @@
         <option value="$PROJECT_DIR$/jt-parent/pom.xml" />
         <option value="$PROJECT_DIR$/jt-common/pom.xml" />
         <option value="$PROJECT_DIR$/jt-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/jt-bilibili/pom.xml" />
       </list>
     </option>
   </component>
