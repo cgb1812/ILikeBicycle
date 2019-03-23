@@ -1,5 +1,6 @@
 com\jt\common\po\BasePojo.class
 com\jt\common\util\CookieUtils.class
+com\jt\common\vo\JsonResult.class
 com\jt\common\vo\Where.class
 com\jt\common\vo\OperaterEnum.class
 com\jt\common\vo\ItemCatResult.class

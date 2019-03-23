@@ -1,3 +1,6 @@
-com\bilibili\manage\controller\IndexController.class
 com\bilibili\manage\pojo\User.class
+com\bilibili\manage\controller\UserInformationController.class
+com\bilibili\manage\controller\UserOrderController.class
 com\bilibili\manage\mapper\UserMapper.class
+com\bilibili\manage\controller\UserAdminController.class
+com\bilibili\manage\controller\IndexController.class
