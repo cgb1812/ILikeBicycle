@@ -3,7 +3,10 @@
   PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
   "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
  <mapper namespace="com.bilibili.manage.mapper.UserAdminDao">
-
+    <select id="queryPasswordByUsername" resultType="string">
+        select password from sys_users
+        where username=#{username}
+    </select>
     <update id="updatePassword">
 
         update sys_users
@@ -12,10 +15,31 @@
         where username=#{username}
 
     </update>
-    <select id="queryPasswordByUsername" resultType="string">
-        select password from sys_users
+
+    <select id="queryEmailByUsername" resultType="string">
+        select email from sys_users
         where username=#{username}
     </select>
+    <update id="updateEmail">
+        update sys_users
+        set email=#{updateEmailId}
+        where username=#{username}
+    </update>
+
+    <select id="queryPhoneByUsername" resultType="string">
+        select mobile from sys_users
+        where username=#{username}
+    </select>
+    <update id="updatePhone">
+        update sys_users
+        set mobile=#{newUserPhone}
+        where username=#{username}
+    </update>
+
+
+
+
+
     <!--<update id="updateObject">
        update sys_users
        set

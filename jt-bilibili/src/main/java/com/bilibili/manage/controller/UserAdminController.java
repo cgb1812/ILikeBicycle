@@ -23,15 +23,12 @@ public class UserAdminController {
    @ResponseBody
    public JsonResult doUpdatePassword(
            String pwd,String newPwd,String cfgPwd){
-       System.out.println("################"+pwd+">>>>>>"+newPwd+">>>>>>>>>>>>>>>>>>>"+cfgPwd);
-       userAdminService.updatePassword(pwd,
+//       System.out.println("################"+pwd+">>>>>>"+newPwd+">>>>>>>>>>>>>>>>>>>"+cfgPwd);
+       int rows = userAdminService.updatePassword(pwd,
                newPwd, cfgPwd);
-       return new JsonResult("update ok");
+       return new JsonResult("update password ok");
    }
-   @RequestMapping("doLoginPasswordList")
-   public String doLoginPasswordList() {
-       return "userAdmin/userUpdateLoginPassword_list";
-   }
+
 
     @RequestMapping("doUserAdminListUI")
     public String doUserAdminListUI(){
@@ -46,7 +43,46 @@ public class UserAdminController {
     public String doPwdEditUI(){
         return "userAdmin/pwd_edit";
     }
-
+    //vip中心下面4个选项框
+    @RequestMapping("doLoginPasswordList")
+    public String doLoginPasswordList() {
+        return "userAdmin/vip/userUpdateLoginPassword_list";
+    }
+    @RequestMapping("doUpdate_email")
+    public String doUpdate_email(){
+        return "userAdmin/vip/update_email";
+    }
+    @RequestMapping("doUpdate_Phone")
+    public String doUpdate_Phone(){
+        return "userAdmin/vip/update_Phone";
+    }
+    @RequestMapping("doUpdate_PayPassword")
+    public String doUpdate_PayPassword(){
+        return "userAdmin/vip/update_PayPassword";
+    }
+    //更新邮箱 按钮
+    @RequestMapping("doUpdateEmail")
+    @ResponseBody
+    public JsonResult doUpdateEmail(String EmailId,String UpdateEmailId){
+        int rows = userAdminService.updateEmail(EmailId,
+                UpdateEmailId);
+        return new JsonResult("update Email ok") ;
+    }
+    //更新手机号绑定 按钮
+    @RequestMapping("doUpdatePhone")
+    @ResponseBody
+    public JsonResult doUpdatePhone(String userPhone,String newUserPhone ,String yanzhengma){
+        int rows = userAdminService.updatePhone(userPhone, newUserPhone, yanzhengma);
+        return new JsonResult("update telephone ok");
+    }
+    //更新支付密码  按钮  --sql 没写该字段  暂时   就是登录密码
+    @RequestMapping("doUpdatePayPassword")
+    @ResponseBody
+    public JsonResult doUpdatePayPassword( String pwd,String newPwd,String cfgPwd){
+        userAdminService.updatePassword(pwd,
+                newPwd, cfgPwd);
+        return new JsonResult("update Pay-Password ok");
+    }
     /*@RequestMapping("doUpdatePassword")
     @ResponseBody
     public JsonResult doUpdatePassword(
