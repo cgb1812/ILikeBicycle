@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c6ee774-a9a1-4712-8ec8-49596a7f18be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jt_bilibili_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/jt_bilibili_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jt_manage_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/jt_manage_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/jt-bilibili.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/jt-bilibili.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/UserAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/UserAdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserAdminDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserAdminDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/UserAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/UserAdminServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/UserAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/UserAdminMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/userAdmin/userUpdateLoginPassword_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/userAdmin/userUpdateLoginPassword_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/controller/UserAdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/controller/UserAdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/mapper/UserAdminDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/mapper/UserAdminDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/service/impl/UserAdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/service/impl/UserAdminServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/classes/mybatis/mappers/UserAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/classes/mybatis/mappers/UserAdminMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-common/jt-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/jt-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-manage/jt-manage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-manage/jt-manage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-parent/jt-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-parent/jt-parent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jt-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-parent/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c6ee774-a9a1-4712-8ec8-49596a7f18be" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/jt-parent/target/" />
     <ignored path="$PROJECT_DIR$/jt-common/target/" />
     <ignored path="$PROJECT_DIR$/jt-manage/target/" />
@@ -421,7 +398,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553485581016" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553485784201" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -552,12 +529,20 @@
       <workItem from="1553306830698" duration="28526000" />
       <workItem from="1553393191330" duration="12985000" />
       <workItem from="1553444277541" duration="550000" />
-      <workItem from="1553476805936" duration="6475000" />
+      <workItem from="1553476805936" duration="6761000" />
     </task>
+    <task id="LOCAL-00001" summary="test idea中的git">
+      <created>1553485711702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553485711703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107536000" />
+    <option name="totallyTimeSpent" value="107822000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,7 +557,7 @@
     <frame x="437" y="0" width="1396" height="1014" extended-state="0" />
     <layout>
       <window_info id="Web" order="0" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49884793" visible="true" weight="0.33736762" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49884793" visible="true" weight="0.33736762" />
       <window_info id="Structure" order="2" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -582,7 +567,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32844242" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32873562" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.21647058" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49924356" visible="true" weight="0.21647058" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -590,7 +575,7 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.21647058" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.44243792" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -609,6 +594,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test idea中的git" />
+    <option name="LAST_COMMIT_MESSAGE" value="test idea中的git" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
