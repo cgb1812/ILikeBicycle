@@ -1,16 +1,13 @@
-package com.jt.common.web;
+package com.bilibili.manage.common.web;
 
 import com.jt.common.exception.ServiceException;
 import com.jt.common.vo.JsonResult;
-
 import org.apache.shiro.ShiroException;
 import org.apache.shiro.authc.IncorrectCredentialsException;
 import org.apache.shiro.authc.LockedAccountException;
 import org.apache.shiro.authc.UnknownAccountException;
 import org.apache.shiro.authz.AuthorizationException;
-import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 

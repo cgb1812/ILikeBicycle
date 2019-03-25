@@ -12,7 +12,10 @@
         where username=#{username}
 
     </update>
-
+    <select id="queryPasswordByUsername" resultType="string">
+        select password from sys_users
+        where username=#{username}
+    </select>
     <!--<update id="updateObject">
        update sys_users
        set

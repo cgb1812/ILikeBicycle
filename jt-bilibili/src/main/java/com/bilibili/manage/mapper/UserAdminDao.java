@@ -7,4 +7,6 @@ public interface UserAdminDao {
             @Param("username")String username,
             @Param("newPwd")String newPwd,
             @Param("salt")String salt);
+
+    String queryPasswordByUsername(String username);
 }

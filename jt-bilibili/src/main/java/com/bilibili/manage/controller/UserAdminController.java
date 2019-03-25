@@ -23,6 +23,7 @@ public class UserAdminController {
    @ResponseBody
    public JsonResult doUpdatePassword(
            String pwd,String newPwd,String cfgPwd){
+       System.out.println("################"+pwd+">>>>>>"+newPwd+">>>>>>>>>>>>>>>>>>>"+cfgPwd);
        userAdminService.updatePassword(pwd,
                newPwd, cfgPwd);
        return new JsonResult("update ok");
