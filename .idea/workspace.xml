@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c6ee774-a9a1-4712-8ec8-49596a7f18be" name="Default Changelist" comment="" />
+    <list default="true" id="6c6ee774-a9a1-4712-8ec8-49596a7f18be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jt_bilibili_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/jt_bilibili_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jt_manage_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/jt_manage_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-bilibili/jt-bilibili.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/jt-bilibili.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/jt-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/jt-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-manage/jt-manage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-manage/jt-manage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-parent/jt-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-parent/jt-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/分布式使用说明(骨架搭建).docx" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/jt-parent/target/" />
     <ignored path="$PROJECT_DIR$/jt-common/target/" />
     <ignored path="$PROJECT_DIR$/jt-manage/target/" />
@@ -30,7 +58,96 @@
     <favorites_list name="04Concurrency" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/UserAdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/UserAdminServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/userAdmin/userUpdateLoginPassword_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="94" column="42" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/GlobalExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/TimeAccessInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jt-parent/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/UserAdminMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserAdminDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,7 +187,10 @@
       <find>out</find>
       <find>web</find>
       <find>jack</find>
+<<<<<<< HEAD
       <find>pwdId</find>
+=======
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
     </findStrings>
     <replaceStrings>
       <replace />
@@ -135,6 +255,8 @@
         <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/common/web/GlobalExceptionHandler.java" />
         <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/GlobalExceptionHandler.java" />
         <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/userAdmin/userUpdateLoginPassword_list.html" />
+        <option value="$PROJECT_DIR$/jt-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/GlobalExceptionHandler.java" />
       </list>
     </option>
   </component>
@@ -153,7 +275,11 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="437" />
+=======
+    <option name="x" value="-54" />
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
     <option name="width" value="1396" />
     <option name="height" value="1014" />
   </component>
@@ -163,13 +289,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ILikeBicycle" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="jt-bilibili" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -344,6 +474,8 @@
             </path>
             <path>
               <item name="ILikeBicycle" type="b2602c69:ProjectViewProjectNode" />
+=======
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
               <item name="jt-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -388,17 +520,27 @@
               <item name="ILikeBicycle" type="b2602c69:ProjectViewProjectNode" />
               <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ILikeBicycle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553485784201" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553444814913" />
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -529,7 +671,10 @@
       <workItem from="1553306830698" duration="28526000" />
       <workItem from="1553393191330" duration="12985000" />
       <workItem from="1553444277541" duration="550000" />
+<<<<<<< HEAD
       <workItem from="1553476805936" duration="6761000" />
+=======
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
     </task>
     <task id="LOCAL-00001" summary="test idea中的git">
       <created>1553485711702</created>
@@ -542,7 +687,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="107822000" />
+=======
+    <option name="totallyTimeSpent" value="101061000" />
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -554,7 +703,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="437" y="0" width="1396" height="1014" extended-state="0" />
+=======
+    <frame x="-54" y="0" width="1396" height="1014" extended-state="0" />
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
     <layout>
       <window_info id="Web" order="0" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49884793" visible="true" weight="0.33736762" />
@@ -567,7 +720,11 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32844242" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32873562" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49924356" visible="true" weight="0.21647058" />
+=======
+      <window_info anchor="bottom" id="Run" order="3" weight="0.28" />
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -878,6 +1035,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/TimeAccessInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -889,6 +1047,9 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RestControllerAdvice.java">
+=======
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/UserAdminService.java">
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
@@ -902,6 +1063,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/UserAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/UserAdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/UserAdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserAdminDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -909,6 +1097,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/exception/ServiceException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -927,14 +1116,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+=======
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/userAdmin/userUpdateLoginPassword_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="94" column="42" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/UserAdminServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/web/TimeAccessInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1047">
           <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
           <folding>
@@ -954,12 +1157,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+=======
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/vo/JsonResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1008,6 +1216,12 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/jt-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+>>>>>>> d37818112a91f6481a0032e1695dc32db73ded38
         </state>
       </provider>
     </entry>
