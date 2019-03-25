@@ -1,3 +1,6 @@
-com\bilibili\manage\controller\IndexController.class
 com\bilibili\manage\pojo\User.class
+com\bilibili\manage\service\PostReplyService.class
+com\bilibili\manage\controller\IndexController.class
 com\bilibili\manage\mapper\UserMapper.class
+com\bilibili\manage\mapper\PostReplyMapper.class
+com\bilibili\manage\service\impl\PostReplyServiceImpl.class

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bilibili.manage.mapper.PostReplyMapper">
+	<insert id="postReply"
+	parameterType="com.bilibili.manage.pojo.ForumReply">
+		insert into
+		forumreply(replyID,replyAvatar,replyContent,replyTime,replyportID,replyName,modifiedTime)
+		values(null,#{replyAvatar},#{replyContent},now(),#{replyportID},#{replyName},now())
+	</insert>
+
+
+</mapper>

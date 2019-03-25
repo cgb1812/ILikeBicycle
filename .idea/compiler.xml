@@ -12,10 +12,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jt-bilibili" target="1.7" />
-      <module name="jt-common" target="1.7" />
-      <module name="jt-manage" target="1.7" />
-      <module name="jt-parent" target="1.7" />
+      <module name="jt-bilibili" target="1.8" />
+      <module name="jt-common" target="1.8" />
+      <module name="jt-manage" target="1.8" />
+      <module name="jt-parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

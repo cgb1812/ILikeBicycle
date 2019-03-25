@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="apple-touch-icon" sizes="76x76"
+	href="assets/img/apple-icon.png">
+<link rel="icon" type="image/png" sizes="96x96"
+	href="assets/img/favicon.png">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<title></title>
+
+<meta
+	content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'
+	name='viewport' />
+<meta name="viewport" content="width=device-width" />
+
+
+<!-- Bootstrap core CSS     -->
+<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+
+<!-- Animation library for notifications   -->
+<link href="assets/css/animate.min.css" rel="stylesheet" />
+
+<!--  Paper Dashboard core CSS    -->
+<link href="assets/css/paper-dashboard.css" rel="stylesheet" />
+
+<!--  CSS for Demo Purpose, don't include it in your project     -->
+<link href="assets/css/demo.css" rel="stylesheet" />
+
+<!--  Fonts and icons     -->
+<link
+	href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
+	rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Muli:400,300'
+	rel='stylesheet' type='text/css'>
+<link href="assets/css/themify-icons.css" rel="stylesheet">
+
+</head>
+<body>
+
+	<div class="wrapper">
+		<div class="sidebar" data-background-color="white"
+			data-active-color="danger">
+
+			<!--
+		Tip 1: you can change the color of the sidebar's background using: data-background-color="white | black"
+		Tip 2: you can change the color of the active button using the data-active-color="primary | info | success | warning | danger"
+	-->
+
+			<div class="sidebar-wrapper">
+				<div class="logo">
+					<a href="doIndexUI.do" class="simple-text"> 哔哔论坛~~ </a>
+				</div>
+
+				<ul class="nav">
+					<li class="active"><a href="doHot.do"> <i class="ti-panel"></i>
+							<p>热门哔哔~~</p>
+					</a></li>
+					<li><a href="doUser.do"> <i class="ti-user"></i>
+							<p>你的哔哔~~</p>
+					</a></li>
+					<li><a href="doPost.do"> <i class="ti-view-list-alt"></i>
+							<p>开始哔哔~~</p>
+					</a></li>
+					<li><a href="doSelect.do"> <i class="ti-text"></i>
+							<p>哔哔内容~~</p>
+					</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="main-panel">
+			<nav class="navbar navbar-default">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle">
+							<span class="sr-only">Toggle navigation</span> <span
+								class="icon-bar bar1"></span> <span class="icon-bar bar2"></span>
+							<span class="icon-bar bar3"></span>
+						</button>
+						<a class="navbar-brand" href="#">这里只是一群哔哔者的聚集地</a>
+					</div>
+				</div>
+			</nav>
+			<div></div>
+
+			<div class="content">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="card">
+								<div class="header">
+									<h4 class="title">你的哔哔~</h4>
+									<p class="category">这里都是你发起的哔哔</p>
+								</div>
+								<div class="content table-responsive table-full-width">
+									<table class="table table-striped">
+										<thead>
+											<th>ID</th>
+											<th>标题</th>
+											<th>类别</th>
+											<th>浏览量</th>
+											<th>创建时间</th>
+											<th>修改时间</th>
+										</thead>
+										<tbody id="tbodyId">
+										</tbody>
+									</table>
+									<div id="pageId" class="box-footer clearfix">
+										<ul class="pagination
+										pagination-sm no-margin
+										pull-right">
+										<li><a class="first">首页</a></li>
+										<li><a class="pre">上一页</a></li>
+										<li><a class="pageCurrent">当前页</a></li>
+										<li><a class="next">下一页</a></li>
+										<li><a class="last">尾页</a></li>
+										<li><a class="pageCount">总页数</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+<!--   Core JS Files   -->
+<script src="assets/js/jquery-1.10.2.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+
+<!--  Checkbox, Radio & Switch Plugins -->
+<script src="assets/js/bootstrap-checkbox-radio.js"></script>
+
+<!--  Charts Plugin -->
+<script src="assets/js/chartist.min.js"></script>
+
+<!--  Notifications Plugin    -->
+<script src="assets/js/bootstrap-notify.js"></script>
+
+<!--  Google Maps Plugin    -->
+<!---<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>--->
+
+<!-- Paper Dashboard Core javascript and methods for Demo purpose -->
+<script src="assets/js/paper-dashboard.js"></script>
+
+<!-- Paper Dashboard DEMO methods, don't include it in your project! -->
+<script src="assets/js/demo.js"></script>
+
+<script type="text/javascript">
+	$(function() {
+		doGetObjects();
+		$("#pageId").on("click",".first,.pre,.next,.last",doJumpToPage)
+	});
+	//设置分页信息
+	function setPagination(pageObject){
+		$(".pageCount").html("总页数("+pageObject.pageCount+")")
+		$(".pageCurrent").html("当前页 ("+pageObject.pageCurrent+")")
+	
+		$("#pageId").data("pageCurrent",pageObject.pageCurrent);
+		$("#pageId").data("pageCount",pageObject.pageCount);
+		
+	}
+	//跳转到某一页
+	function doJumpToPage(){
+		var pageCurrent=$("#pageId").data("pageCurrent");
+		var pageCount=$("#pageId").data("pageCount");
+		var cls=$(this).prop("class");
+		if(cls=="first"){//首页
+			pageCurrent=1;
+		}
+		if(cls=="pre"&&pageCount>1){//上一页
+			pageCurrent--;
+		}
+		if(cls=="next"&&pageCurrent<pageCount){//下一页
+			pageCurrent++;
+		}
+		if(cls=="last"){//尾页
+			pageCurrent=pageCount;
+		}
+		//重新绑定
+		$("#pageId").data("pageCurrent",pageCurrent);
+		//重新查询
+		doGetObjects();
+	}
+	function doGetObjects() {
+		var url = "doHotList.do";
+		var pageCurrent=$("#pageId").data("pageCurrent");
+		if(!pageCurrent)pageCurrent=1;
+		var params = {"pageCurrent":pageCurrent};
+		$.getJSON(url, params, function(result) {
+			//将服务端返回的数据填充到表格中
+			setTableTBodyRows(result.records);
+			//设置分页信息
+			setPagination(result);
+		});
+	}
+	function setTableTBodyRows(result) {
+		var tBody = $("#tbodyId");
+		tBody.empty();/**要先清空,否则会沿着原来的表一直添加下去!!!!!!**/
+		//迭代结果集
+		for ( var i in result) {//循环一次取一行记录
+			//构建tr对象
+			var tr = $("<tr></tr>");
+			//构建td对象
+			var tds = "<td>" + result[i].forumID + "</td>" + 
+			"<td>"+ result[i].forumBT +"</td>" + 
+			"<td>"+ result[i].forumType + "</td>" + 
+			"<td>"+ result[i].forumAmount+ "</td>" + 
+			"<td>"+ result[i].createdTime + "</td>" + 
+			"<td><a href='doSelect.do' class='btn btn-info pull-right btn-save'><p>查看</p></a></td>";
+			//"<td><a href='doSelect.do' class='btn btn-info pull-right btn-save' name='checkedId' value='"+result[i].forumID+"' onClick='doGetObject("+result[i].forumID+")'><p>查看</p></a></td>";
+			//"<td><button class='btn btn-default' name='checkedId' value='"+result[i].forumID+"' onClick='doGetObject("+result[i].forumID+")'>查看</button>";
+			//将td追加到tr中
+			tr.append(tds);
+			//将tr追加到tbody中
+			tBody.append(tr);
+		}
+	}
+	/*
+	function doGetObject(forumID){
+		var url="doFindByForumID.do"
+		var params={"checkedIds":forumID};
+		$.post(url,params,function(result){
+			console.log(result);
+			//alart(result);
+			console.log(result);
+		})
+	}*/
+
+</script>
+</html>

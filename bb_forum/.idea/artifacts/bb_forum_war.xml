@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bb_forum:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bb_forum</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bb_forum-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bb_forum:war exploded" />
+    </root>
+  </artifact>
+</component>

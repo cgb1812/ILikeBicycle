@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jt-bilibili:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c6ee774-a9a1-4712-8ec8-49596a7f18be" name="Default Changelist" comment="" />
+    <list default="true" id="6c6ee774-a9a1-4712-8ec8-49596a7f18be" name="Default Changelist" comment="git log">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-bilibili/jt-bilibili.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/jt-bilibili.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/classes/com/bilibili/manage/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jt-bilibili/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/jt-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/jt-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/mapper/SysMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/mapper/SysMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/mapper/SysMapperProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/mapper/SysMapperProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/po/BasePojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/po/BasePojo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/BaseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/BaseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/Function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/HttpClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/HttpClientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/service/RedisService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/util/CookieUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/util/CookieUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/util/IdleConnectionEvictor.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/util/IdleConnectionEvictor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/EasyUIResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/EasyUIResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/ItemCatData.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/ItemCatData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/ItemCatResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/ItemCatResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/OperaterEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/OperaterEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/PicUploadResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/PicUploadResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/SysResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/SysResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/Where.class" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/classes/com/jt/common/vo/Where.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/jt-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/jt-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jt-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-manage/jt-manage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-manage/jt-manage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jt-parent/jt-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jt-parent/jt-parent.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/jt-parent/target/" />
     <ignored path="$PROJECT_DIR$/jt-common/target/" />
     <ignored path="$PROJECT_DIR$/jt-manage/target/" />
@@ -30,81 +70,14 @@
     <favorites_list name="04Concurrency" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/dashboard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-462">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-              <folding>
-                <element signature="e#28417#28423#0" expanded="true" />
-                <element signature="e#31774#31782#0" expanded="true" />
-                <element signature="e#31895#31903#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/user.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="41" column="15" lean-forward="true" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
-              <folding>
-                <element signature="e#12830#12836#0" expanded="true" />
-                <element signature="e#16187#16195#0" expanded="true" />
-                <element signature="e#16308#16316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/IndexController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/assets/demo/demo.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="XML" />
+        <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -117,112 +90,189 @@
       <find>/item/query/item/desc/</find>
       <find>/assets</find>
       <find>../</find>
+      <find>ti-search</find>
+      <find>assets</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>assets</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/pojo/Item.java" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/resources/property/jdbc.properties" />
-        <option value="$PROJECT_DIR$/jt-parent/pom.xml" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/resources/spring/applicationContext-mvc.xml" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/webapp/easy-ui/easyui-6-datagrid.html" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/pojo/ItemDesc.java" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/mapper/ItemDescMapper.java" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mappers/ItemDescMapper.xml" />
-        <option value="$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/vo/EasyUIResult.java" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/service/ItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/ItemController.java" />
-        <option value="$PROJECT_DIR$/jt-common/pom.xml" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/webapp/commons/common-js.jsp" />
-        <option value="$PROJECT_DIR$/jt-manage/pom.xml" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/forumContent.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/icons.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/notifications.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/postSuccess.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/typography.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/upgrade.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/user2.html" />
         <option value="$PROJECT_DIR$/jt-bilibili/pom.xml" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/mapper/ItemDescMapper.java" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/ItemController.java" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/property/jdbc.properties" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/spring/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/jt-manage/pom.xml" />
         <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/spring/applicationContext-mvc.xml" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/spring/applicationContext-mybatis.xml" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/resources/spring/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/IndexController.java" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/User.java" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/upgrade.html" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/typography.html" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/rtl.html" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/tables.html" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/notifications.html" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/map.html" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/icons.html" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/dashboard.html" />
-        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/user.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/111.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/ForumReplyMapper.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/exception/ArgumentException.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/exception/ServiceException.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/exception/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/ForumReplyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/ForumReplyService.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserForumDao.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/UserForumService.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/JsonResult.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/HotController.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/PostController.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/UserForumController.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/HotMapper.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/PostMapper.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserForumMapper.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/HotService.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/PostService.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/UserForumService.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/HotServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/PostServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/UserForumServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/HotMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/PostMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/UserForumMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/DateJsonSerializer.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/Forum.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/PageObject.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/ForumReply.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/PostReplyService.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/select.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/index.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/PostReplyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/post.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/hot.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/PostReplyMapper.java" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/PostReplyMapper.xml" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/user.html" />
+        <option value="$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/PostReplyController.java" />
       </list>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="G:/maven/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="G:\maven\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../eclipse/chajian/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\EXE\eclipse\chajian\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jt-bilibili" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jt-bilibili" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="364" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="y" value="163" />
     <option name="width" value="1395" />
-    <option name="height" value="1024" />
+    <option name="height" value="1026" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="git-ku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-bilibili" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-ku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-bilibili" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-ku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-bilibili" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-ku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-bilibili" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-ku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jt-bilibili" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553262416355" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553498527207" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.28547856" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\EXE\git-ku\jt-bilibili\src\main\java\com\bilibili\manage\pojo" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.bilibili.manage.pojo" />
+      <recent name="com.bilibili.manage.service.impl" />
       <recent name="com.bilibili.manage.mapper" />
+      <recent name="com.bilibili.manage.controller" />
+      <recent name="com.bilibili.manage.pojo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\intelljidea\WORKSPACE\04Concurrency\jt-bilibili\src\main\resources\mybatis\mappers" />
-      <recent name="G:\intelljidea\WORKSPACE\04Concurrency\jt-bilibili\src\main\webapp\WEB-INF\admin" />
-      <recent name="G:\intelljidea\WORKSPACE\04Concurrency\jt-bilibili\src\main\webapp" />
-      <recent name="G:\intelljidea\WORKSPACE\04Concurrency\jt-bilibili\src\main\resources" />
-      <recent name="G:\intelljidea\WORKSPACE\04Concurrency\jt-bilibili\src\main\java\com\bilibili\manage" />
+      <recent name="E:\EXE\git-ku\jt-bilibili\src\main\webapp\WEB-INF\views\forumViews" />
+      <recent name="E:\EXE\git-ku\jt-bilibili\src\main\resources\mybatis\mappers" />
+      <recent name="E:\EXE\git-ku\jt-bilibili\src\main\java\com\bilibili\manage\pojo" />
+      <recent name="E:\EXE\git-ku\jt-bilibili\src\main\webapp\forumAssets" />
+      <recent name="E:\EXE\git-ku\jt-bilibili\src\main\java\com\bilibili\manage\service\impl" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,9 +338,83 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="Tomcat 8.0.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.53" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/jt_bilibili_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jt-bilibili:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jt_bilibili_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_git-ku" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="10309" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jt-bilibili:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Maven.京淘后台管理系统" />
       <item itemvalue="Maven.jt-bilibili前台" />
+      <item itemvalue="Tomcat Server.Tomcat 8.0.53" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -321,27 +445,31 @@
       <workItem from="1552905267988" duration="1242000" />
       <workItem from="1553254574277" duration="195000" />
       <workItem from="1553255514935" duration="5503000" />
+      <workItem from="1553310083370" duration="21351000" />
+      <workItem from="1553391203124" duration="20892000" />
+      <workItem from="1553413363901" duration="7253000" />
+      <workItem from="1553498160566" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56099000" />
+    <option name="totallyTimeSpent" value="106010000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="0" width="1395" height="1024" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info id="Web" order="0" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49884793" visible="true" weight="0.45268735" />
-      <window_info id="Structure" order="2" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
+      <window_info id="Web" order="0" sideWeight="0.5026455" side_tool="true" weight="0.2603072" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4973545" visible="true" weight="0.26434922" />
+      <window_info id="Structure" order="2" sideWeight="0.5026455" side_tool="true" weight="0.2603072" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
-      <window_info id="Favorites" order="7" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
-      <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32949308" />
+      <window_info id="Favorites" order="7" sideWeight="0.5026455" side_tool="true" weight="0.2603072" />
+      <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.3285968" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3295711" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.15581395" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4995958" weight="0.3676732" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -349,15 +477,16 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004042" side_tool="true" weight="0.24333926" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.44243792" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" x="22" y="248" width="1237" height="185" id="Version Control" order="14" type="WINDOWED" weight="0.3285968" />
       <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32906976" />
+      <window_info anchor="bottom" id="Application Servers" order="16" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.23283261" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.23282135" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.329296" />
@@ -367,7 +496,7 @@
     </layout>
     <layout-to-restore>
       <window_info id="Web" order="0" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49884793" visible="true" weight="0.23175965" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49884793" visible="true" weight="0.25626516" />
       <window_info id="Structure" order="2" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -376,8 +505,8 @@
       <window_info id="Favorites" order="7" sideWeight="0.5011521" side_tool="true" weight="0.27100682" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32949308" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.35697675" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4995958" visible="true" weight="0.94671404" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -385,7 +514,7 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004042" side_tool="true" weight="0.24333926" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.44243792" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -393,7 +522,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.2331567" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.23282135" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.329296" />
@@ -405,347 +534,406 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/views/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-manage/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/mapper/ItemCatMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/mapper/ItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/mapper/ItemDescMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/ItemCat.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/ItemCatService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/ItemCatServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/ItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/ItemCatController.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/ItemCatMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/ItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/ItemDesc.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/ItemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-common/src/main/java/com/jt/common/mapper/SysMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/property/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/spring/applicationContext-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="4" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/assets/js/core/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/spring/applicationContext-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="72" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/spring/applicationContext-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1523">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/spring/applicationContext-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/java/com/jt/manage/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-manage/src/main/resources/mybatis/mappers/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/upgrade.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#11575#11581#0" expanded="true" />
-            <element signature="e#14932#14940#0" expanded="true" />
-            <element signature="e#15053#15061#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/typography.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#12789#12795#0" expanded="true" />
-            <element signature="e#16146#16154#0" expanded="true" />
-            <element signature="e#16267#16275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/rtl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-          <folding>
-            <element signature="e#31573#31579#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/notifications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#14354#14360#0" expanded="true" />
-            <element signature="e#17711#17719#0" expanded="true" />
-            <element signature="e#17832#17840#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#9971#9979#0" expanded="true" />
-            <element signature="e#10092#10100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/icons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#9180#9186#0" expanded="true" />
-            <element signature="e#12537#12545#0" expanded="true" />
-            <element signature="e#12658#12666#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/tables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="70" column="16" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-          <folding>
-            <element signature="e#16997#17003#0" expanded="true" />
-            <element signature="e#20354#20362#0" expanded="true" />
-            <element signature="e#20475#20483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#28417#28423#0" expanded="true" />
-            <element signature="e#31774#31782#0" expanded="true" />
-            <element signature="e#31895#31903#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="41" column="15" lean-forward="true" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
-          <folding>
-            <element signature="e#12830#12836#0" expanded="true" />
-            <element signature="e#16187#16195#0" expanded="true" />
-            <element signature="e#16308#16316#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="76">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/ForumReplyMapper.java" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/exception/ArgumentException.java" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/exception/ServiceException.java" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/exception/GlobalExceptionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="166" column="8" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/ForumReplyServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/ForumReplyService.java" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/spring/applicationContext-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/map.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/icons.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/notifications.html" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/forumAssets/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/JsonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/PostMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/HotService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/User.java">
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/UserForumService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/assets/demo/demo.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/HotServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/assets/demo/demo.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/PostServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/UserForumServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/HotMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/PostMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/UserForumMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/DateJsonSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/Forum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="69" selection-start-line="69" selection-end-line="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#385#386#0" expanded="true" />
             <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/ForumReply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1178">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/UserForumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/PostService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/PostReplyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/service/impl/PostReplyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/select.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#8;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/HotMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/HotController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/pojo/PageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="25" selection-start-line="56" selection-start-column="16" selection-end-line="72" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/PostReplyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mappers/PostReplyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/PostController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/hot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/webapp/WEB-INF/views/forumViews/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="216" column="20" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/controller/PostReplyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-386">
+          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jt-bilibili/src/main/java/com/bilibili/manage/mapper/UserForumMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
